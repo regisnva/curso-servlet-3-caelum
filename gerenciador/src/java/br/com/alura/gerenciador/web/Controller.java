@@ -24,7 +24,7 @@ public class Controller extends HttpServlet {
     
     private final String NOME_DA_CLASSE_TAREFA = "br.com.alura.gerenciador.web.%s";
     
-     @Override
+    @Override
     public void init() throws ServletException {
         super.init();
         System.out.println("Inicializando a Servlet " + this);

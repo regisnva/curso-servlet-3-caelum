@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.alura.gerenciador.web;
+package br.com.alura.gerenciador.filter;
 
 import br.com.alura.gerenciador.util.SessionUsuario;
 import br.com.alura.gerenciador.Usuario;

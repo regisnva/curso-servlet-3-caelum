@@ -14,6 +14,12 @@ import javax.servlet.ServletResponse;
  */
 public interface Tarefa {
     
+    /**
+     * 
+     * @param request
+     * @param res
+     * @return 
+     */
     public String executa(ServletRequest request, ServletResponse res);
     
 }
